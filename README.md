@@ -1,9 +1,50 @@
 ﻿# ECommerceApp
 
-Simple C# solution with three projects:
-- ECommerceApp.Core - business logic (models)
-- ECommerceApp.Data - data repository
-- ECommerceApp.Tests - unit tests (xUnit)
+Учебный проект на C# (.NET 9) с разделением на слои и модульными тестами.
 
-Run tests:
-dotnet test
+## Структура
+- ECommerceApp.Core — модели домена (Product)
+- ECommerceApp.Data — репозиторий для доступа к данным (ProductRepository)
+- ECommerceApp.Tests — модульные тесты (xUnit)
+
+## Требования к функционалу
+- Модель Product: Id, Name, Price
+- Репозиторий ProductRepository:
+  - AddProduct(Product p)
+  - GetAllProducts()
+  - GetById(int id)
+- Тесты проверяют AddProduct и GetById
+
+## Быстрый старт
+1) Открыть решение `ECommerceApp.sln` в IDE или в терминале выполнить:
+   - dotnet restore
+   - dotnet build
+2) Запуск тестов:
+   - dotnet test
+
+## Коммиты (учебные этапы)
+1) feat: add project structure (solution, projects, .gitignore, README)
+2) feat: implement Product and ProductRepository
+3) test: add unit tests for ProductRepository
+
+## Ответы на вопросы
+- Что такое репозиторий проекта?
+  Репозиторий — это хранилище исходного кода и артефактов проекта с историей изменений (коммитами), ветками и метаданными для совместной разработки.
+
+- Преимущества удалённого репозитория
+  - Централизованное хранение и резервное копирование
+  - Совместная работа (pull request, code review)
+  - CI/CD и автоматизация
+  - Доступ с разных устройств и прозрачная история
+
+- Принципы правильной структуры проекта
+  - Логическое разбиение на слои/модули (Core, Data, Tests)
+  - Ясные зависимости (Data зависит от Core, Tests — от обоих)
+  - Единые соглашения по именованию и расположению файлов
+  - Изоляция тестов и минимальные связности между слоями
+
+- Роль файла .gitignore
+  Определяет, какие файлы/папки не должны попадать в репозиторий (например, bin/, obj/, временные и локальные артефакты), чтобы история оставалась чистой и воспроизводимой.
+
+- Зачем нужен README.md в корне
+  Краткая документация: что за проект, как запустить/собрать/тестировать, структура и ссылки. Помогает быстро понять контекст и начать работу.
