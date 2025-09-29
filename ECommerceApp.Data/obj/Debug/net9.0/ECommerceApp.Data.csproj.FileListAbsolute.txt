@@ -1,0 +1,16 @@
+C:\Users\ivanp\ECommerceApp\ECommerceApp.Data\bin\Debug\net9.0\ECommerceApp.Data.deps.json
+C:\Users\ivanp\ECommerceApp\ECommerceApp.Data\bin\Debug\net9.0\ECommerceApp.Data.dll
+C:\Users\ivanp\ECommerceApp\ECommerceApp.Data\bin\Debug\net9.0\ECommerceApp.Data.pdb
+C:\Users\ivanp\ECommerceApp\ECommerceApp.Data\bin\Debug\net9.0\ECommerceApp.Core.dll
+C:\Users\ivanp\ECommerceApp\ECommerceApp.Data\bin\Debug\net9.0\ECommerceApp.Core.pdb
+C:\Users\ivanp\ECommerceApp\ECommerceApp.Data\obj\Debug\net9.0\ECommerceApp.Data.csproj.AssemblyReference.cache
+C:\Users\ivanp\ECommerceApp\ECommerceApp.Data\obj\Debug\net9.0\ECommerceApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivanp\ECommerceApp\ECommerceApp.Data\obj\Debug\net9.0\ECommerceApp.Data.AssemblyInfoInputs.cache
+C:\Users\ivanp\ECommerceApp\ECommerceApp.Data\obj\Debug\net9.0\ECommerceApp.Data.AssemblyInfo.cs
+C:\Users\ivanp\ECommerceApp\ECommerceApp.Data\obj\Debug\net9.0\ECommerceApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\ivanp\ECommerceApp\ECommerceApp.Data\obj\Debug\net9.0\ECommerc.32A4663F.Up2Date
+C:\Users\ivanp\ECommerceApp\ECommerceApp.Data\obj\Debug\net9.0\ECommerceApp.Data.dll
+C:\Users\ivanp\ECommerceApp\ECommerceApp.Data\obj\Debug\net9.0\refint\ECommerceApp.Data.dll
+C:\Users\ivanp\ECommerceApp\ECommerceApp.Data\obj\Debug\net9.0\ECommerceApp.Data.pdb
+C:\Users\ivanp\ECommerceApp\ECommerceApp.Data\obj\Debug\net9.0\ref\ECommerceApp.Data.dll
+C:\Users\ivanp\ECommerceApp\ECommerceApp.Data\obj\Debug\net9.0\ECommerceApp.Data.sourcelink.json
